@@ -1,2 +1,3 @@
 # ClusteringAlgorithmComparison
-Clustering Algorithm Comparison in a research setting for a very dense high dimensional dataset. Includes description of k-means, DBSCAN and Markov Stability.
+
+See `Clustercomparison_report.pdf` for details about algorithms and conclusions of the study.
